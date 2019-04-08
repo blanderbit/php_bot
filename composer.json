@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "telegram-bot/api": "^2.3",
+        "illuminate/database": "^5.4",
+        "squizlabs/php_codesniffer": "^3.3"
+    }
+}
